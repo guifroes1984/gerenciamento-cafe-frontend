@@ -1,0 +1,17 @@
+.mat-toolbar {
+  margin: -24px;
+  margin-bottom: 10px;
+  width: auto;
+  display: flex;
+  align-items: center;
+}
+
+mat-form-field {
+  padding: 5px;
+}
+
+.form-container {
+  width: 100%;
+  max-width: 500px;
+  overflow: hidden;
+}
